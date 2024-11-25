@@ -48,3 +48,21 @@ export default tseslint.config({
   },
 })
 ```
+
+
+# Gift App
+
+Gift App is a React application that allows you to search and display gifs using the Giphy API.
+
+## Features
+
+- Search gifs by category.
+- Display a list of gifs.
+- Delete search categories.
+- Show a loading message while fetching gifs.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/gift-app.git
